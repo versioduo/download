@@ -1,0 +1,146 @@
+{
+  "com.versioduo.axis": {
+    "file": "com.versioduo.axis.firmware-12.bin",
+    "version": 12,
+    "board": "versioduo:samd:axis",
+    "hash": "38f74ddf75ee69f0f91cea50101c0818a9dc837a"
+  },
+  "com.versioduo.connect": {
+    "file": "com.versioduo.connect.firmware-20.bin",
+    "version": 20,
+    "board": "versioduo:samd:connect",
+    "hash": "4a523b39a13387044d28d551b460dadb82c5768f"
+  },
+  "com.versioduo.cv": {
+    "file": "com.versioduo.cv.firmware-2.bin",
+    "version": 2,
+    "board": "versioduo:samd:itsybitsy",
+    "hash": "58aa46ba2d493d5e0a318960f50512b4b5a3d4fa"
+  },
+  "com.versioduo.dmx": {
+    "file": "com.versioduo.dmx.firmware-38.bin",
+    "version": 38,
+    "board": "versioduo:samd:dmx",
+    "hash": "68496ddfaa8b8df29ce7eccdd3eafffe09076201"
+  },
+  "com.versioduo.express": {
+    "file": "com.versioduo.express.firmware-17.bin",
+    "version": 17,
+    "board": "versioduo:samd:express",
+    "hash": "6cfbc7e140965f1d73d9f0ed647e6f8b88aff02b"
+  },
+  "com.versioduo.express-drum": {
+    "file": "com.versioduo.express-drum.firmware-21.bin",
+    "version": 21,
+    "board": "versioduo:samd:express-mini",
+    "hash": "1ce907e387cc216fac6b8915c6861e5b3a5471c0"
+  },
+  "com.versioduo.express-mini": {
+    "file": "com.versioduo.express-mini.firmware-17.bin",
+    "version": 17,
+    "board": "versioduo:samd:express-mini",
+    "hash": "f0b068a866706fcb83de68b0507c9e7e7e267264"
+  },
+  "com.versioduo.fader": {
+    "file": "com.versioduo.fader.firmware-13.bin",
+    "version": 13,
+    "board": "versioduo:samd:fader",
+    "hash": "bad7776773cf08618362f230bdabc139035a1cc0"
+  },
+  "com.versioduo.fader-keys": {
+    "file": "com.versioduo.fader-keys.firmware-9.bin",
+    "version": 9,
+    "board": "versioduo:samd:key-8",
+    "hash": "1a7adb9e278b33912772a19300e757be6632c32e"
+  },
+  "com.versioduo.glockenspiel-37": {
+    "file": "com.versioduo.glockenspiel-37.firmware-48.bin",
+    "version": 48,
+    "board": "versioduo:samd:control",
+    "hash": "4c8dfd74603e85b7f7bb5036650534b01fd8d010"
+  },
+  "com.versioduo.key-8": {
+    "file": "com.versioduo.key-8.firmware-5.bin",
+    "version": 5,
+    "board": "versioduo:samd:key-8",
+    "hash": "9bbd7f3873e103d55c6c9f5ad6543fb8c4156989"
+  },
+  "com.versioduo.key-9": {
+    "file": "com.versioduo.key-9.firmware-3.bin",
+    "version": 3,
+    "board": "versioduo:samd:key-9",
+    "hash": "5a0b22cbb180c759b41eeb384e4da813301d18c8"
+  },
+  "com.versioduo.kontra-2": {
+    "file": "com.versioduo.kontra-2.firmware-17.bin",
+    "version": 17,
+    "board": "versioduo:samd:control",
+    "hash": "5eaa85937c97e1ae227c1e93fbd17a1afd06238d"
+  },
+  "com.versioduo.kontra-2-string": {
+    "file": "com.versioduo.kontra-2-string.firmware-19.bin",
+    "version": 19,
+    "board": "versioduo:samd:step",
+    "hash": "4013b9f5514da3e1fc85eb63e0ba846e2e51f1aa"
+  },
+  "com.versioduo.pad": {
+    "file": "com.versioduo.pad.firmware-37.bin",
+    "version": 37,
+    "board": "versioduo:samd:pad",
+    "hash": "37924f5d63296386dbcbc7a19cc12422ee77e8a7"
+  },
+  "com.versioduo.pedal": {
+    "file": "com.versioduo.pedal.firmware-17.bin",
+    "version": 17,
+    "board": "versioduo:samd:itsybitsy",
+    "hash": "675ad66c16aa9e1704a83c6eeda15f3db6c0f12c"
+  },
+  "com.versioduo.pulse": {
+    "file": "com.versioduo.pulse.firmware-58.bin",
+    "version": 58,
+    "board": "versioduo:samd:pulse",
+    "hash": "22a694dd7df4d42ac77b08346b415cb5c57b4828"
+  },
+  "com.versioduo.range": {
+    "file": "com.versioduo.range.firmware-17.bin",
+    "version": 17,
+    "board": "versioduo:samd:range",
+    "hash": "daad50fdbe58eac88c9fff8c1651340296a5a169"
+  },
+  "com.versioduo.schlag-7": {
+    "file": "com.versioduo.schlag-7.firmware-17.bin",
+    "version": 17,
+    "board": "versioduo:samd:control",
+    "hash": "1855cfae171aae2a7481209d94a13270d9353b7c"
+  },
+  "com.versioduo.schlag-7-stepper": {
+    "file": "com.versioduo.schlag-7-stepper.firmware-13.bin",
+    "version": 13,
+    "board": "versioduo:samd:step",
+    "hash": "30bbf9888d69b974c2edc60e6d8cb4690c7ced92"
+  },
+  "com.versioduo.serial": {
+    "file": "com.versioduo.serial.firmware-4.bin",
+    "version": 4,
+    "board": "versioduo:samd:serial",
+    "hash": "f02f78acf9fe1fe862e4ca95631d8d1e112a9c6e"
+  },
+  "com.versioduo.step": {
+    "file": "com.versioduo.step.firmware-7.bin",
+    "version": 7,
+    "board": "versioduo:samd:step",
+    "hash": "b713a902103a7032d8f87e282639b0fe3cacd7b8"
+  },
+  "net.voltek-labs.attune": {
+    "file": "net.voltek-labs.attune.firmware-17.bin",
+    "version": 17,
+    "board": "versioduo:samd:step",
+    "hash": "e877f281404fe77c0b15f7df02655f0bab126dab"
+  },
+  "de.vogelkuerstner.pi-14537": {
+    "file": "de.vogelkuerstner.pi-14537.firmware-32.bin",
+    "version": 32,
+    "board": "versioduo:samd:control",
+    "hash": "d082d4f4e2530befa2c58c2d2fb359511f145ab6"
+  }
+}
