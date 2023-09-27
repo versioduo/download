@@ -9,15 +9,15 @@
         {
           "name": "Versio Duo",
           "architecture": "samd",
-          "version": "170",
+          "version": "171",
           "category": "Versio Duo",
           "help": {
             "online": "https://github.com/versioduo/download"
           },
-          "url": "https://versioduo.com/download/versioduo-samd-170.tar.bz2",
-          "archiveFileName": "versioduo-samd-170.tar.bz2",
-          "checksum": "SHA-256:fa95c77084f2003923d004f6d7193c52cdf2ad8fc94b1e8b0bcbf9c6d2db3835",
-          "size": 390639,
+          "url": "https://versioduo.com/download/versioduo-samd-171.tar.bz2",
+          "archiveFileName": "versioduo-samd-171.tar.bz2",
+          "checksum": "SHA-256:d2a1cf63e781c1a32a747699dff22b49e4eb89fc565c18c5391d296be8afb615",
+          "size": 396519,
           "toolsDependencies": [
             {
               "packager": "versioduo",
@@ -128,6 +128,13 @@
               "archiveFileName": "arm-gnu-toolchain-12.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
               "size": 110120636,
               "checksum": "SHA-256:3b2eee0bdf71c1bbeb3c3b7424fbf7bd9d5c3f0f5a3a4a78159c9e3ad219e7bd"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-darwin-x86_64-arm-none-eabi.tar.xz",
+              "archiveFileName": "arm-gnu-toolchain-12.3.rel1-darwin-x86_64-arm-none-eabi.tar.xz",
+              "size": 119505008,
+              "checksum": "SHA-256:e6ed8bf930fad9ce33e120ab90b36957b1f779fccaa6de6c9ca9a58982c04291"
             },
             {
               "host": "x86_64-linux-gnu",
