@@ -71,12 +71,6 @@
   ],
   "com.versioduo.axis": [
     {
-      "file": "com.versioduo.axis.firmware-2.bin",
-      "version": 2,
-      "board": "versioduo:samd:axis",
-      "hash": "260b2b82b973c4a8d74ddda903fadd436e8d2947"
-    },
-    {
       "file": "com.versioduo.axis.firmware-3.bin",
       "version": 3,
       "board": "versioduo:samd:axis",
