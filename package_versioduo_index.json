@@ -16,8 +16,8 @@
           },
           "url": "https://versioduo.com/download/versioduo-samd-172.tar.bz2",
           "archiveFileName": "versioduo-samd-172.tar.bz2",
-          "checksum": "SHA-256:7a8e685a2bf939fb490ed3d50473419542526c5a96ce3880a539f4e77dbe0ef6",
-          "size": 396133,
+          "checksum": "SHA-256:cfa068c57c38235148e093912c4e1f23be3f7f670f0e9fee1565b237e15d5a63",
+          "size": 400951,
           "toolsDependencies": [
             {
               "packager": "versioduo",
