@@ -59,6 +59,12 @@
       "version": 4,
       "board": "versioduo:samd:express",
       "hash": "8131ee8279340aa769968bedaabf3d45ee20390f"
+    },
+    {
+      "file": "com.versioduo.sax.firmware-5.bin",
+      "version": 5,
+      "board": "versioduo:samd:express",
+      "hash": "d0614ba42d17a2494c8db1e313d4019ca333fc1c"
     }
   ],
   "com.versioduo.pulse": [
