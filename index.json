@@ -53,6 +53,14 @@
       "hash": "f6464f3907c531b677f8f58f4f65f3aed4e880e2"
     }
   ],
+  "com.versioduo.sax": [
+    {
+      "file": "com.versioduo.sax.firmware-4.bin",
+      "version": 4,
+      "board": "versioduo:samd:express",
+      "hash": "8131ee8279340aa769968bedaabf3d45ee20390f"
+    }
+  ],
   "com.versioduo.pulse": [
     {
       "file": "com.versioduo.pulse.firmware-96.bin",
