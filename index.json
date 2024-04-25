@@ -71,6 +71,12 @@
       "version": 8,
       "board": "versioduo:samd:express",
       "hash": "77cb69fc9081c03d7c81a6d9b84ccdaa003f684e"
+    },
+    {
+      "file": "com.versioduo.sax.firmware-9.bin",
+      "version": 9,
+      "board": "versioduo:samd:express",
+      "hash": "4a3a09c54ec1b1d7f6b5116b8091c9590dc75393"
     }
   ],
   "com.versioduo.pulse": [
