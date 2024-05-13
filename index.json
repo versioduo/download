@@ -55,6 +55,12 @@
   ],
   "com.versioduo.sax": [
     {
+      "file": "com.versioduo.sax.firmware-10.bin",
+      "version": 10,
+      "board": "versioduo:samd:express",
+      "hash": "784d1df60453382c2f18adfede5bd77b4ac6ae03"
+    },
+    {
       "file": "com.versioduo.sax.firmware-4.bin",
       "version": 4,
       "board": "versioduo:samd:express",
