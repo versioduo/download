@@ -70,7 +70,7 @@
       "file": "com.versioduo.sax.firmware-12.bin",
       "version": 12,
       "board": "versioduo:samd:express",
-      "hash": "530ae2e32ea9f30f74e84677bf8f9634a79d7e0f"
+      "hash": "a71ec8bb2cbf61e6d1bccc13b968b9d2031a31fc"
     },
     {
       "file": "com.versioduo.sax.firmware-4.bin",
