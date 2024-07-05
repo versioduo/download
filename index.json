@@ -40,7 +40,7 @@
       "file": "com.versioduo.step.firmware-18.bin",
       "version": 18,
       "board": "versioduo:samd:step",
-      "hash": "8242b3772a003e9e456209abb4eb743317b67d39"
+      "hash": "7db21ffefeb1e456d002d7d57a0b604a93fcb1eb"
     }
   ],
   "com.versioduo.schlag-7": [
