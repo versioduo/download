@@ -53,6 +53,14 @@
       "hash": "33db8a6140221cbc33651b3314a65fd85d7ce333"
     }
   ],
+  "com.versioduo.sax": [
+    {
+      "file": "com.versioduo.sax.firmware-14.bin",
+      "version": 14,
+      "board": "versioduo:samd:express",
+      "hash": "6d57aa4c45577cf9eaccece7ea581071a799b154"
+    }
+  ],
   "com.versioduo.pulse": [
     {
       "file": "com.versioduo.pulse.firmware-97.bin",
