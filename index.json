@@ -35,6 +35,20 @@
       "version": 18,
       "board": "versioduo:samd:step",
       "hash": "7db21ffefeb1e456d002d7d57a0b604a93fcb1eb"
+    },
+    {
+      "file": "com.versioduo.step.firmware-19.bin",
+      "version": 19,
+      "board": "versioduo:samd:step",
+      "hash": "dab014f383c3ef91f9be3886ea7b9899665dc401"
+    }
+  ],
+  "com.versioduo.express": [
+    {
+      "file": "com.versioduo.express.firmware-23.bin",
+      "version": 23,
+      "board": "versioduo:samd:express",
+      "hash": "c3aae1897bdb0951a15406cba0dac61b31b4f502"
     }
   ],
   "com.versioduo.schlag-7": [
@@ -58,7 +72,7 @@
       "file": "com.versioduo.sax.firmware-14.bin",
       "version": 14,
       "board": "versioduo:samd:express",
-      "hash": "6d57aa4c45577cf9eaccece7ea581071a799b154"
+      "hash": "46e45fef0645e08c62cb3e9fcc4a1fd797dbec96"
     }
   ],
   "com.versioduo.pulse": [
