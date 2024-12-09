@@ -1,0 +1,178 @@
+{
+  "packages": [
+    {
+      "name": "versioduo",
+      "maintainer": "Versio Duo",
+      "websiteURL": "https://versioduo.com/",
+      "email": "kay@versioduo.com",
+      "platforms": [
+        {
+          "name": "Versio Duo",
+          "architecture": "samd",
+          "version": "177",
+          "category": "Versio Duo",
+          "help": {
+            "online": "https://github.com/versioduo/download"
+          },
+          "url": "https://versioduo.com/download/versioduo-samd-177.tar.bz2",
+          "archiveFileName": "versioduo-samd-177.tar.bz2",
+          "checksum": "SHA-256:f03e9a96664ef785191cb91319d19728beff438e26135788ed71a7dddaff091a",
+          "size": 471038,
+          "toolsDependencies": [
+            {
+              "packager": "versioduo",
+              "name": "CMSIS",
+              "version": "5.7.0"
+            },
+            {
+              "packager": "versioduo",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.2"
+            },
+            {
+              "packager": "versioduo",
+              "name": "arm-none-eabi-gcc",
+              "version": "12.3"
+            },
+            {
+              "packager": "versioduo",
+              "name": "bossac",
+              "version": "1.9.1-arduino1"
+            }
+          ]
+        }
+      ],
+      "tools": [
+        {
+          "name": "CMSIS",
+          "version": "5.7.0",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/adafruit/arduino-board-index/releases/download/build-tools/ARM.CMSIS.5.7.0.zip",
+              "archiveFileName": "ARM.CMSIS.5.7.0.zip",
+              "checksum": "SHA-256:2518a8b66439b0814f27ddda1d38b890d0f601a25778378a6117e7dd393afc44",
+              "size": 117164633
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/adafruit/arduino-board-index/releases/download/build-tools/ARM.CMSIS.5.7.0.zip",
+              "archiveFileName": "ARM.CMSIS.5.7.0.zip",
+              "checksum": "SHA-256:2518a8b66439b0814f27ddda1d38b890d0f601a25778378a6117e7dd393afc44",
+              "size": 117164633
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/adafruit/arduino-board-index/releases/download/build-tools/ARM.CMSIS.5.7.0.zip",
+              "archiveFileName": "ARM.CMSIS.5.7.0.zip",
+              "checksum": "SHA-256:2518a8b66439b0814f27ddda1d38b890d0f601a25778378a6117e7dd393afc44",
+              "size": 117164633
+            },
+            {
+              "host": "all",
+              "url": "https://github.com/adafruit/arduino-board-index/releases/download/build-tools/ARM.CMSIS.5.7.0.zip",
+              "archiveFileName": "ARM.CMSIS.5.7.0.zip",
+              "checksum": "SHA-256:2518a8b66439b0814f27ddda1d38b890d0f601a25778378a6117e7dd393afc44",
+              "size": 117164633
+            }
+          ]
+        },
+        {
+          "name": "CMSIS-Atmel",
+          "version": "1.2.2",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
+              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
+              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
+              "size": 2511228
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
+              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
+              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
+              "size": 2511228
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
+              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
+              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
+              "size": 2511228
+            },
+            {
+              "host": "all",
+              "url": "https://github.com/adafruit/ArduinoModule-CMSIS-Atmel/releases/download/v1.2.2/CMSIS-Atmel-1.2.2.tar.bz2",
+              "archiveFileName": "CMSIS-Atmel-1.2.2.tar.bz2",
+              "checksum": "SHA-256:ad06a1d864b79981728882a0a1272ff4dc0b29ae4e056f3f22f3ed449a6c65b8",
+              "size": 2511228
+            }
+          ]
+        },
+        {
+          "name": "arm-none-eabi-gcc",
+          "version": "12.3",
+          "systems": [
+            {
+              "host": "x86_64-mingw32",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
+              "archiveFileName": "arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
+              "size": 336539068,
+              "checksum": "SHA-256:d52888bf59c5262ebf3e6b19b9f9e6270ecb60fd218cf81a4e793946e805a654"
+            },
+            {
+              "host": "arm64-apple-darwin",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
+              "archiveFileName": "arm-gnu-toolchain-12.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
+              "size": 110120636,
+              "checksum": "SHA-256:3b2eee0bdf71c1bbeb3c3b7424fbf7bd9d5c3f0f5a3a4a78159c9e3ad219e7bd"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-darwin-x86_64-arm-none-eabi.tar.xz",
+              "archiveFileName": "arm-gnu-toolchain-12.3.rel1-darwin-x86_64-arm-none-eabi.tar.xz",
+              "size": 119505008,
+              "checksum": "SHA-256:e6ed8bf930fad9ce33e120ab90b36957b1f779fccaa6de6c9ca9a58982c04291"
+            },
+            {
+              "host": "x86_64-linux-gnu",
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-x86_64-arm-none-eabi.tar.xz",
+              "archiveFileName": "arm-gnu-toolchain-12.3.rel1-x86_64-arm-none-eabi.tar.xz",
+              "size": 159854488,
+              "checksum": "SHA-256:12a2815644318ebcceaf84beabb665d0924b6e79e21048452c5331a56332b309"
+            }
+          ]
+        },
+        {
+          "name": "bossac",
+          "version": "1.9.1-arduino1",
+          "systems": [
+            {
+              "host": "i686-mingw32",
+              "url": "http://downloads.arduino.cc/tools/bossac-1.9.1-arduino1-windows.tar.gz",
+              "archiveFileName": "bossac-1.9.1-arduino1-windows.tar.gz",
+              "size": 1260118,
+              "checksum": "SHA-256:fe2d6ef78ca711c78e104e258357ed06b09e95e9356dc72d8d2c9f6670af4b7a"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/versioduo/download/raw/main/bossac-1.9.1-osx.tar.gz",
+              "archiveFileName": "bossac-1.9.1-osx.tar.gz",
+              "size": 46840,
+              "checksum": "SHA-256:a99a893930ceac2b7aeb9f7517cc57d95818a46c7209fc5811d0aa47e7eb7b25"
+            },
+            {
+              "host": "x86_64-pc-linux-gnu",
+              "url": "http://downloads.arduino.cc/tools/bossac-1.9.1-arduino1-linux64.tar.gz",
+              "archiveFileName": "bossac-1.9.1-arduino1-linux64.tar.gz",
+              "size": 399453,
+              "checksum": "SHA-256:d3d324a3503a8db825c01f3b38519e4d4824c4d0e42cb399a16c1e074f9a9a86"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

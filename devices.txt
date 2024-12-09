@@ -1,0 +1,24 @@
+# Source directories for devices to build the firmwares.
+#
+studiovogelkuerstner/pi-14537
+versioduo/axis
+versioduo/beat
+versioduo/cube
+versioduo/dmx
+versioduo/express
+versioduo/frame
+Archive/frame-polyphonic
+versioduo/glockenspiel-37
+versioduo/horn-4
+versioduo/kontra-2
+versioduo/kontra-2-string
+versioduo/pedal
+versioduo/pedal-2
+versioduo/pulse
+Archive/versioduo/sax
+versioduo/schlag-7
+versioduo/schlag-7-stepper
+versioduo/step
+versioduo/strip
+versioduo/viola-1
+versioduo/wave
