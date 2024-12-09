@@ -1,0 +1,5 @@
+# Released firmware versions
+#
+# The update program will offer this version and ignore any higher ones,
+# unless the device already has a higher version number than the release.
+#
