@@ -11,7 +11,7 @@ fi
 
 rm -rf arduino-board-package
 git clone --depth=1 git@github.com:${vendor}/arduino-board-package
-(cd arduino-board-package && git submodule update --init --recursive --remote --filter=blob:none)
+(cd arduino-board-package && git submodule update --init --recursive --filter=blob:none)
 
 # Increase the number of USB descriptor strings.
 sed -i '' -E 's/STRING_DESCRIPTOR_MAX = 12/STRING_DESCRIPTOR_MAX = 24/' arduino-board-package/ArduinoCore-samd/libraries/Adafruit_TinyUSB_Arduino/src/arduino/Adafruit_USBD_Device.h
