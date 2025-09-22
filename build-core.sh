@@ -1,17 +1,26 @@
 #!/bin/bash
 
+set -o errexit
+set -o errtrace; trap 'echo "Error ${?} ${BASH_SOURCE[0]:-?}:${LINENO:-?}"' ERR
+set -o nounset
+set -o pipefail
+
 set -e
 
 vendor=versioduo
 architecture=samd
 
-if [[ "$1" == "--clean" ]]; then
+if [[ ${1:-} == "--clean" ]]; then
   rm -f ${vendor}-${architecture}-*
 fi
 
 rm -rf arduino-board-package
 git clone --depth=1 git@github.com:${vendor}/arduino-board-package
 (cd arduino-board-package && git submodule update --init --recursive --filter=blob:none)
+
+# Revert SERCOM
+sed -i '' -E 's/sercom->I2CM.STATUS.bit.BUSERR/sercom->I2CM.INTFLAG.bit.ERROR/' arduino-board-package/ArduinoCore-samd/cores/arduino/SERCOM.cpp
+grep -q 'sercom->I2CM.INTFLAG.bit.ERROR' arduino-board-package/ArduinoCore-samd/cores/arduino/SERCOM.cpp
 
 # Increase the number of USB descriptor strings.
 sed -i '' -E 's/STRING_DESCRIPTOR_MAX = 12/STRING_DESCRIPTOR_MAX = 24/' arduino-board-package/ArduinoCore-samd/libraries/Adafruit_TinyUSB_Arduino/src/arduino/Adafruit_USBD_Device.h
