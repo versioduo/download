@@ -9,15 +9,15 @@
         {
           "name": "Versio Duo",
           "architecture": "samd",
-          "version": "186",
+          "version": "187",
           "category": "Versio Duo",
           "help": {
             "online": "https://github.com/versioduo/download"
           },
-          "url": "https://versioduo.com/download/versioduo-samd-186.tar.bz2",
-          "archiveFileName": "versioduo-samd-186.tar.bz2",
-          "checksum": "SHA-256:2310c34a5ad797f9eb5b7b79eb51914614df8a20ff925e23970f2661c3fb2c4a",
-          "size": 450416,
+          "url": "https://versioduo.com/download/versioduo-samd-187.tar.bz2",
+          "archiveFileName": "versioduo-samd-187.tar.bz2",
+          "checksum": "SHA-256:af2a9feeeb31d871ee5aa0924988efe67d81c79d8155f6d922ce0a33ce3ae050",
+          "size": 450298,
           "toolsDependencies": [
             {
               "packager": "versioduo",
