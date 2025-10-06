@@ -7,9 +7,8 @@ versioduo/cube
 versioduo/dmx
 versioduo/express
 versioduo/frame
-Archive/frame-polyphonic
 versioduo/glockenspiel-37
-versioduo/horn-4
+versioduo/hihat
 versioduo/kontra-2
 versioduo/kontra-2-string
 versioduo/pedal
