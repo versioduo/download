@@ -95,6 +95,12 @@
       "version": 98,
       "board": "versioduo:samd:pulse",
       "hash": "21163df657ae6c2a2af386dea5241df2bb022d20"
+    },
+    {
+      "file": "com.versioduo.pulse.firmware-99.bin",
+      "version": 99,
+      "board": "versioduo:samd:pulse",
+      "hash": "4394fa6b65c0fcb4ea26729c8a8cc2b2cd018176"
     }
   ],
   "com.versioduo.kontra-2": [
