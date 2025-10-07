@@ -4,7 +4,7 @@
       "file": "com.versioduo.viola-1.firmware-32.bin",
       "version": 32,
       "board": "versioduo:samd:step",
-      "hash": "53b0bbbd97f5301ac3170e287f9464c885322c76"
+      "hash": "25d7d0d747ab3ea5fc5ad99a2d86ec202da44aad"
     }
   ],
   "com.versioduo.wave": [
@@ -12,7 +12,7 @@
       "file": "com.versioduo.wave.firmware-5.bin",
       "version": 5,
       "board": "versioduo:samd:wave",
-      "hash": "840d6ffbb597269a9d0f8490e1782a58d7570e7c"
+      "hash": "6a6fe14d9e0ffbd5afecd04699b28e664088a88b"
     }
   ],
   "com.versioduo.strip": [
@@ -40,7 +40,7 @@
       "file": "com.versioduo.step.firmware-19.bin",
       "version": 19,
       "board": "versioduo:samd:step",
-      "hash": "a1dbb30fb1663f941d73f9acc6dcf4266b278b51"
+      "hash": "3fcff50190bec5712985dbf568eb7be73d107a0b"
     }
   ],
   "com.versioduo.express": [
@@ -54,7 +54,7 @@
       "file": "com.versioduo.express.firmware-24.bin",
       "version": 24,
       "board": "versioduo:samd:express",
-      "hash": "4329562c44e3253ab4521253d5aaf8ee42083510"
+      "hash": "bcaae949a445af17b738c359267b7eaf07a0f7ee"
     }
   ],
   "com.versioduo.schlag-7": [
@@ -62,7 +62,7 @@
       "file": "com.versioduo.schlag-7.firmware-25.bin",
       "version": 25,
       "board": "versioduo:samd:control",
-      "hash": "eabdcfe2faf6a228afd0e866ae01083965d469bb"
+      "hash": "873b18dc665478085acd33cfaf439315fc61d12d"
     }
   ],
   "com.versioduo.pedal": [
@@ -78,7 +78,7 @@
       "file": "com.versioduo.hihat.firmware-1.bin",
       "version": 1,
       "board": "versioduo:samd:hihat",
-      "hash": "f41406369a9f4c18614d920af736494c35d186cc"
+      "hash": "767ba0ca327bb94ce68110f9bea20be6cb0768cf"
     }
   ],
   "com.versioduo.sax": [
@@ -86,7 +86,7 @@
       "file": "com.versioduo.sax.firmware-14.bin",
       "version": 14,
       "board": "versioduo:samd:sax",
-      "hash": "01f88080a95fedaee7cf8bd8534adcd4c44cf77c"
+      "hash": "75167e9f3b13f61268f77fc056f745f2867313b7"
     }
   ],
   "com.versioduo.pulse": [
@@ -94,7 +94,7 @@
       "file": "com.versioduo.pulse.firmware-98.bin",
       "version": 98,
       "board": "versioduo:samd:pulse",
-      "hash": "0e91e1ac8f47b07e146ba79fba0f7e27166a49c1"
+      "hash": "21163df657ae6c2a2af386dea5241df2bb022d20"
     }
   ],
   "com.versioduo.kontra-2": [
@@ -102,7 +102,7 @@
       "file": "com.versioduo.kontra-2.firmware-31.bin",
       "version": 31,
       "board": "versioduo:samd:control",
-      "hash": "18f1d8e25913e72be206217d4658cf5f655f6367"
+      "hash": "4598eae125ecc861afe01b9c882e5cd209ea9cb5"
     }
   ],
   "com.versioduo.axis": [
@@ -117,20 +117,6 @@
       "version": 4,
       "board": "versioduo:samd:axis",
       "hash": "2e78d8e54cd782cab5b79b07cdba72a150433869"
-    }
-  ],
-  "com.versioduo.horn-4": [
-    {
-      "file": "com.versioduo.horn-4.firmware-2.bin",
-      "version": 2,
-      "board": "versioduo:samd:control",
-      "hash": "6151bd3792839573bb791326ac466511f2cef74e"
-    },
-    {
-      "file": "com.versioduo.horn-4.firmware-3.bin",
-      "version": 3,
-      "board": "versioduo:samd:control",
-      "hash": "438e7b86c73794cee6a9d76203272443bf4d45a5"
     }
   ],
   "com.versioduo.frame-polyphonic": [
@@ -164,7 +150,7 @@
       "file": "de.vogelkuerstner.pi-14537.firmware-56.bin",
       "version": 56,
       "board": "versioduo:samd:control",
-      "hash": "c6410fde4f7688eeb4a03f6f36a2ced46abfa259"
+      "hash": "39a0479d201d9b5699ef2651ba9e732cf6d9263d"
     }
   ],
   "com.versioduo.glockenspiel-37": [
@@ -178,7 +164,7 @@
       "file": "com.versioduo.glockenspiel-37.firmware-69.bin",
       "version": 69,
       "board": "versioduo:samd:control",
-      "hash": "024a90a0dcabbb875c0df16001c97e9987bc7f8f"
+      "hash": "3a698ab76b73f1e6a6b66a7f67ac8a512d23a95f"
     }
   ],
   "com.versioduo.frame": [
@@ -186,7 +172,7 @@
       "file": "com.versioduo.frame.firmware-7.bin",
       "version": 7,
       "board": "versioduo:samd:strip",
-      "hash": "8fe28facf33cde40a5d4c51722a5fc5dfcd564b3"
+      "hash": "31a18484cc87dd261e2107253cb1a2c3892ef7d8"
     }
   ],
   "com.versioduo.pedal-2": [
@@ -202,7 +188,7 @@
       "file": "com.versioduo.cube.firmware-1.bin",
       "version": 1,
       "board": "versioduo:samd:wave",
-      "hash": "c8ce50faa4cf628cec0e806dc1117c7633256f03"
+      "hash": "5de184dcc729bef951af882f76f361e0145ba827"
     }
   ],
   "com.versioduo.dmx": [
@@ -236,7 +222,7 @@
       "file": "com.versioduo.beat.firmware-12.bin",
       "version": 12,
       "board": "versioduo:samd:beat",
-      "hash": "faca2801d1551ed6a9c847db7bb5ccd451fdcaba"
+      "hash": "8dd61c7a8edba324daa2ef2ebdad512ea55ac922"
     }
   ],
   "com.versioduo.kontra-2-string": [
@@ -244,7 +230,7 @@
       "file": "com.versioduo.kontra-2-string.firmware-46.bin",
       "version": 46,
       "board": "versioduo:samd:step",
-      "hash": "caa5fc6d99785501b5a74a4959155f3ade345136"
+      "hash": "2863230463222c46cb5acb57a67cc752e5f71049"
     }
   ],
   "com.versioduo.schlag-7-stepper": [
@@ -252,7 +238,7 @@
       "file": "com.versioduo.schlag-7-stepper.firmware-21.bin",
       "version": 21,
       "board": "versioduo:samd:step",
-      "hash": "2d161b25704a59c76b76efb49b1aa54c6a6ef066"
+      "hash": "aa6c83394fb6a6009d6376327d1743bdf9de57d9"
     }
   ]
 }
