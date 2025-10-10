@@ -32,7 +32,7 @@
             {
               "packager": "versioduo",
               "name": "arm-none-eabi-gcc",
-              "version": "12.3"
+              "version": "14.3"
             },
             {
               "packager": "versioduo",

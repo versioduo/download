@@ -9,15 +9,15 @@
         {
           "name": "Versio Duo",
           "architecture": "samd",
-          "version": "193",
+          "version": "194",
           "category": "Versio Duo",
           "help": {
             "online": "https://github.com/versioduo/download"
           },
-          "url": "https://versioduo.com/download/versioduo-samd-193.tar.bz2",
-          "archiveFileName": "versioduo-samd-193.tar.bz2",
-          "checksum": "SHA-256:4c3e508960a2dbc66fff2024be8da1d815d6b929490732d8de03c7884b3e274a",
-          "size": 450569,
+          "url": "https://versioduo.com/download/versioduo-samd-194.tar.bz2",
+          "archiveFileName": "versioduo-samd-194.tar.bz2",
+          "checksum": "SHA-256:3921f59204af4019d7779ccfad2418718d296da2b71d7be710cb9aacd1154fe4",
+          "size": 450342,
           "toolsDependencies": [
             {
               "packager": "versioduo",
@@ -32,7 +32,7 @@
             {
               "packager": "versioduo",
               "name": "arm-none-eabi-gcc",
-              "version": "12.3"
+              "version": "14.3"
             },
             {
               "packager": "versioduo",
