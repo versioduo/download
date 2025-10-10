@@ -113,35 +113,28 @@
         },
         {
           "name": "arm-none-eabi-gcc",
-          "version": "12.3",
+          "version": "14.3",
           "systems": [
             {
               "host": "x86_64-mingw32",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
-              "archiveFileName": "arm-gnu-toolchain-12.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
-              "size": 336539068,
-              "checksum": "SHA-256:d52888bf59c5262ebf3e6b19b9f9e6270ecb60fd218cf81a4e793946e805a654"
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/14.3.rel1/binrel/arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
+              "archiveFileName": "arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
+              "size": 291670457,
+              "checksum": "SHA-256:836ebe51fd71b6542dd7884c8fb2011192464b16c28e4b38fddc9350daba5ee8"
             },
             {
               "host": "arm64-apple-darwin",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
-              "archiveFileName": "arm-gnu-toolchain-12.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
-              "size": 110120636,
-              "checksum": "SHA-256:3b2eee0bdf71c1bbeb3c3b7424fbf7bd9d5c3f0f5a3a4a78159c9e3ad219e7bd"
-            },
-            {
-              "host": "x86_64-apple-darwin",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-darwin-x86_64-arm-none-eabi.tar.xz",
-              "archiveFileName": "arm-gnu-toolchain-12.3.rel1-darwin-x86_64-arm-none-eabi.tar.xz",
-              "size": 119505008,
-              "checksum": "SHA-256:e6ed8bf930fad9ce33e120ab90b36957b1f779fccaa6de6c9ca9a58982c04291"
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/14.3.rel1/binrel/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
+              "archiveFileName": "arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
+              "size": 137816224,
+              "checksum": "SHA-256:30f4d08b219190a37cded6aa796f4549504902c53cfc3c7e044a8490b6eba1f7"
             },
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/12.3.rel1/binrel/arm-gnu-toolchain-12.3.rel1-x86_64-arm-none-eabi.tar.xz",
-              "archiveFileName": "arm-gnu-toolchain-12.3.rel1-x86_64-arm-none-eabi.tar.xz",
-              "size": 159854488,
-              "checksum": "SHA-256:12a2815644318ebcceaf84beabb665d0924b6e79e21048452c5331a56332b309"
+              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/14.3.rel1/binrel/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi.tar.xz",
+              "archiveFileName": "arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi.tar.xz",
+              "size": 149789432,
+              "checksum": "SHA-256:8f6903f8ceb084d9227b9ef991490413014d991874a1e34074443c2a72b14dbd"
             }
           ]
         },
