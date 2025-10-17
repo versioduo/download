@@ -78,7 +78,7 @@
       "file": "com.versioduo.hihat.firmware-1.bin",
       "version": 1,
       "board": "versioduo:samd:hihat",
-      "hash": "3eca050fbb41c9c6c129061b601a8ddcb42a7f37"
+      "hash": "f6aa2cf360956bf8d86ded76cb72b7d64d09033b"
     }
   ],
   "com.versioduo.sax": [
