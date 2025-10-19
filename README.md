@@ -31,3 +31,6 @@ Builds all bootloders: `build-bootloader.sh`.
 Builds the core package: `build-core.sh`.
 
 Builds all firmware images: `build-firmware.sh`.
+
+# Copying
+Anyone can use this public domain work without having to seek authorisation, no one can ever own it.
