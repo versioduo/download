@@ -12,7 +12,7 @@
       "file": "com.versioduo.wave.firmware-5.bin",
       "version": 5,
       "board": "versioduo:samd:wave",
-      "hash": "5b9eb272519a4d5de517f6bb49b0434d1e8c016e"
+      "hash": "4029634d5b14fb608e0b8327dc43ede006c7ba4b"
     }
   ],
   "com.versioduo.strip": [
@@ -122,7 +122,7 @@
       "file": "com.versioduo.axis.firmware-4.bin",
       "version": 4,
       "board": "versioduo:samd:axis",
-      "hash": "6407c712e49c9e53ce6e82039874d8bffc29e060"
+      "hash": "e6489d72a72ff188c4cb13c9cf70e9524649d004"
     }
   ],
   "com.versioduo.frame-polyphonic": [
@@ -194,7 +194,7 @@
       "file": "com.versioduo.cube.firmware-1.bin",
       "version": 1,
       "board": "versioduo:samd:wave",
-      "hash": "49d59c8736abb08e4fc0d15689fb2823aa20f112"
+      "hash": "2b3cda0511c89db783b7291c364981fcfd83f05f"
     }
   ],
   "com.versioduo.dmx": [
