@@ -14,6 +14,7 @@ versioduo/kontra-2-string
 versioduo/pedal
 versioduo/pedal-2
 versioduo/pulse
+versioduo/radio
 Archive/versioduo/sax
 versioduo/schlag-7
 versioduo/schlag-7-stepper

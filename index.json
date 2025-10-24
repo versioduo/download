@@ -107,6 +107,14 @@
       "hash": "e7344ae1e29964980e8d8f56e4a08495b6047179"
     }
   ],
+  "com.versioduo.radio": [
+    {
+      "file": "com.versioduo.radio.firmware-2.bin",
+      "version": 2,
+      "board": "versioduo:samd:radio",
+      "hash": "5f64a48142d64c72937881e289047d0dbc2bd143"
+    }
+  ],
   "com.versioduo.pulse": [
     {
       "file": "com.versioduo.pulse.firmware-100.bin",
