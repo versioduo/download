@@ -221,6 +221,12 @@
       "version": 70,
       "board": "versioduo:samd:control",
       "hash": "8d32ed52d2ff0d36fd2059db6c40fe41f1f1a27d"
+    },
+    {
+      "file": "com.versioduo.glockenspiel-37.firmware-71.bin",
+      "version": 71,
+      "board": "versioduo:samd:control",
+      "hash": "bb3e542b7038f75ba945321b30e31f010b895a7a"
     }
   ],
   "com.versioduo.frame": [
