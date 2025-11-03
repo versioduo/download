@@ -87,10 +87,10 @@
   ],
   "com.versioduo.hihat": [
     {
-      "file": "com.versioduo.hihat.firmware-1.bin",
-      "version": 1,
+      "file": "com.versioduo.hihat.firmware-2.bin",
+      "version": 2,
       "board": "versioduo:samd:hihat",
-      "hash": "12a79eafe4fc20960f8743df9a862e36071390f9"
+      "hash": "db9938256d2e9af9f4f56043205923211465887d"
     }
   ],
   "com.versioduo.sax": [
