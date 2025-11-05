@@ -201,6 +201,12 @@
       "version": 57,
       "board": "versioduo:samd:control",
       "hash": "bdea20af5c4b9209ed5ca108aab48206f13df8f1"
+    },
+    {
+      "file": "de.vogelkuerstner.pi-14537.firmware-58.bin",
+      "version": 58,
+      "board": "versioduo:samd:control",
+      "hash": "4503f72754e64951e970b64bb8d515d0ab049dff"
     }
   ],
   "com.versioduo.glockenspiel-37": [
@@ -227,6 +233,12 @@
       "version": 71,
       "board": "versioduo:samd:control",
       "hash": "bb3e542b7038f75ba945321b30e31f010b895a7a"
+    },
+    {
+      "file": "com.versioduo.glockenspiel-37.firmware-72.bin",
+      "version": 72,
+      "board": "versioduo:samd:control",
+      "hash": "d2e24f4e96a19e383064b38af177056c07467db6"
     }
   ],
   "com.versioduo.frame": [
@@ -271,6 +283,12 @@
       "version": 55,
       "board": "versioduo:samd:dmx",
       "hash": "6e372fecfef093f7e56d06862a133de93062c6df"
+    },
+    {
+      "file": "com.versioduo.dmx.firmware-56.bin",
+      "version": 56,
+      "board": "versioduo:samd:dmx",
+      "hash": "4a97372c42f47baeecb702b18661821d7ee5820a"
     }
   ],
   "com.versioduo.beat": [
