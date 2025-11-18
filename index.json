@@ -154,7 +154,7 @@
       "file": "com.versioduo.axis.firmware-5.bin",
       "version": 5,
       "board": "versioduo:samd:axis",
-      "hash": "e93e6df123a4303d791ffb0d70fa3d9070f4da4f"
+      "hash": "5a1607f640aeff4b1f8c1879c7ba1bcab4ce48d7"
     }
   ],
   "com.versioduo.frame-polyphonic": [
