@@ -91,6 +91,12 @@
       "version": 2,
       "board": "versioduo:samd:hihat",
       "hash": "db9938256d2e9af9f4f56043205923211465887d"
+    },
+    {
+      "file": "com.versioduo.hihat.firmware-3.bin",
+      "version": 3,
+      "board": "versioduo:samd:drum",
+      "hash": "0fdede9738b1061732a3cd2c1a4f1cccd92d4abb"
     }
   ],
   "com.versioduo.sax": [
