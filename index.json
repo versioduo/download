@@ -105,6 +105,12 @@
       "version": 15,
       "board": "versioduo:samd:sax",
       "hash": "e7344ae1e29964980e8d8f56e4a08495b6047179"
+    },
+    {
+      "file": "com.versioduo.sax.firmware-16.bin",
+      "version": 16,
+      "board": "versioduo:samd:sax",
+      "hash": "342c251c034dcf1a77431465f4c65196f2c21d59"
     }
   ],
   "com.versioduo.radio": [
