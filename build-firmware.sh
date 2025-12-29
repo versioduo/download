@@ -2,7 +2,7 @@
 
 set -e
 
-project=~/Documents/Arduino
+project=~/github
 
 rm -rf build/
 mkdir build/
