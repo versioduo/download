@@ -11,6 +11,12 @@
       "version": 33,
       "board": "versioduo:samd:step",
       "hash": "8abae3a099949769e3d3ecb99293dcb4beea7f52"
+    },
+    {
+      "file": "com.versioduo.viola-1.firmware-34.bin",
+      "version": 34,
+      "board": "versioduo:samd:step",
+      "hash": "c2c83b28c6b828e28cf7f944d7cd9dc0e91a6cb6"
     }
   ],
   "com.versioduo.wave": [
@@ -96,7 +102,15 @@
       "file": "com.versioduo.hihat.firmware-3.bin",
       "version": 3,
       "board": "versioduo:samd:drum",
-      "hash": "926ae5505018784c9accd727c16b0f8e25e96186"
+      "hash": "bfb06575fa3b69ceb6e010950831f8da9a67be5d"
+    }
+  ],
+  "com.versioduo.snare": [
+    {
+      "file": "com.versioduo.snare.firmware-3.bin",
+      "version": 3,
+      "board": "versioduo:samd:drum",
+      "hash": "5241e83f049d6509b45d26b0b7bae8b0a1cf4151"
     }
   ],
   "com.versioduo.sax": [
@@ -122,7 +136,7 @@
       "file": "com.versioduo.sax.firmware-17.bin",
       "version": 17,
       "board": "versioduo:samd:sax",
-      "hash": "4d9b52a1bc6e418b3cc94c22c5d73487081ba7be"
+      "hash": "4a861bbe3183a8d18669449cb44be603a5463508"
     }
   ],
   "com.versioduo.radio": [

@@ -18,6 +18,7 @@ versioduo/radio/firmware/radio
 versioduo/sax/firmware/sax
 versioduo/schlag-7/firmware/schlag-7
 versioduo/schlag-7/firmware/schlag-7-stepper
+versioduo/snare
 versioduo/step/firmware/step
 versioduo/strip/firmware/strip
 versioduo/viola-1
