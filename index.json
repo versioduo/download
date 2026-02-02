@@ -110,7 +110,7 @@
       "file": "com.versioduo.snare.firmware-3.bin",
       "version": 3,
       "board": "versioduo:samd:drum",
-      "hash": "5241e83f049d6509b45d26b0b7bae8b0a1cf4151"
+      "hash": "5ba6142a989c975bfda37ee04ce22bf4a30e295c"
     }
   ],
   "com.versioduo.sax": [
@@ -333,6 +333,12 @@
       "version": 58,
       "board": "versioduo:samd:dmx",
       "hash": "7bf516f71be835cf755aacf3480594961f784907"
+    },
+    {
+      "file": "com.versioduo.dmx.firmware-59.bin",
+      "version": 59,
+      "board": "versioduo:samd:dmx",
+      "hash": "d4f466a12db0051121cc56ea04a03e56a5104bd7"
     }
   ],
   "com.versioduo.beat": [
