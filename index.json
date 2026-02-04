@@ -16,7 +16,7 @@
       "file": "com.versioduo.viola-1.firmware-34.bin",
       "version": 34,
       "board": "versioduo:samd:step",
-      "hash": "c2c83b28c6b828e28cf7f944d7cd9dc0e91a6cb6"
+      "hash": "b9324a3224989fbcc2a8e67b900301bb15a6c3bb"
     }
   ],
   "com.versioduo.wave": [
@@ -24,7 +24,7 @@
       "file": "com.versioduo.wave.firmware-5.bin",
       "version": 5,
       "board": "versioduo:samd:wave",
-      "hash": "bf74a4a5b5be71fed46217c5231c32337a3a20bc"
+      "hash": "7df2901dfa1c05a7512814f0e69088f268a07441"
     }
   ],
   "com.versioduo.strip": [
@@ -58,7 +58,7 @@
       "file": "com.versioduo.step.firmware-19.bin",
       "version": 19,
       "board": "versioduo:samd:step",
-      "hash": "ee7806229fc164a8155104497e1a0718187fbdab"
+      "hash": "df7594f6b9a436d7ec686fcf64690bc42fc9a7a9"
     }
   ],
   "com.versioduo.express": [
@@ -102,7 +102,7 @@
       "file": "com.versioduo.hihat.firmware-3.bin",
       "version": 3,
       "board": "versioduo:samd:drum",
-      "hash": "bfb06575fa3b69ceb6e010950831f8da9a67be5d"
+      "hash": "4e1e07df8960cafa35b737ab63243fa7622978d3"
     }
   ],
   "com.versioduo.snare": [
@@ -152,7 +152,7 @@
       "file": "com.versioduo.pulse.firmware-100.bin",
       "version": 100,
       "board": "versioduo:samd:pulse",
-      "hash": "873d22b959a24d0c0821ba409e8057c603285b04"
+      "hash": "5e59275130405790fa0956d7c9b112cbc335a267"
     },
     {
       "file": "com.versioduo.pulse.firmware-98.bin",
@@ -294,7 +294,7 @@
       "file": "com.versioduo.cube.firmware-1.bin",
       "version": 1,
       "board": "versioduo:samd:wave",
-      "hash": "8fc0c51721be671aab089c5f8b7ad8d6b23e4d17"
+      "hash": "4ddf4ea53c7156f19194819b6d97d83eaec76026"
     }
   ],
   "com.versioduo.dmx": [
@@ -372,7 +372,7 @@
       "file": "com.versioduo.kontra-2-string.firmware-47.bin",
       "version": 47,
       "board": "versioduo:samd:step",
-      "hash": "7219faafd2cb16274c97ffc7270e5a71a19419a2"
+      "hash": "9eae8676db9798d95ef49a47650bf4f8ca09a87f"
     }
   ],
   "com.versioduo.schlag-7-stepper": [
