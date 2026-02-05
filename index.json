@@ -24,7 +24,7 @@
       "file": "com.versioduo.wave.firmware-5.bin",
       "version": 5,
       "board": "versioduo:samd:wave",
-      "hash": "4aeb6b13cc28733948450a7de957f457741c14db"
+      "hash": "55bf337a3ce394e2942ff2ec807ffe2ee61ad416"
     }
   ],
   "com.versioduo.strip": [
@@ -136,7 +136,7 @@
       "file": "com.versioduo.sax.firmware-17.bin",
       "version": 17,
       "board": "versioduo:samd:sax",
-      "hash": "ec526d3380c00b2691509ce94dde913558be9139"
+      "hash": "5aa29f1e507baea67b01d21ec1b7bf17481b6fac"
     }
   ],
   "com.versioduo.radio": [
@@ -186,7 +186,7 @@
       "file": "com.versioduo.axis.firmware-5.bin",
       "version": 5,
       "board": "versioduo:samd:axis",
-      "hash": "a25b7458fff79cb7eafcc8916e71a3b81fbcfbfe"
+      "hash": "ec072b67bafeb0aaefea2cdb64a67bf03228ff97"
     }
   ],
   "com.versioduo.frame-polyphonic": [
@@ -294,46 +294,10 @@
       "file": "com.versioduo.cube.firmware-1.bin",
       "version": 1,
       "board": "versioduo:samd:wave",
-      "hash": "47755614168d046e21e9d5e1c4b8dfd7847e0298"
+      "hash": "345fcd8a6acecefa99cd7622caeb0cd4f96452f3"
     }
   ],
   "com.versioduo.dmx": [
-    {
-      "file": "com.versioduo.dmx.firmware-51.bin",
-      "version": 51,
-      "board": "versioduo:samd:dmx",
-      "hash": "2eb9b33b4f0837c645e98d2814e1ea3e2a56a667"
-    },
-    {
-      "file": "com.versioduo.dmx.firmware-54.bin",
-      "version": 54,
-      "board": "versioduo:samd:dmx",
-      "hash": "d04ed7705d62e534ef2e28c3bdd606f93dd044ed"
-    },
-    {
-      "file": "com.versioduo.dmx.firmware-55.bin",
-      "version": 55,
-      "board": "versioduo:samd:dmx",
-      "hash": "6e372fecfef093f7e56d06862a133de93062c6df"
-    },
-    {
-      "file": "com.versioduo.dmx.firmware-56.bin",
-      "version": 56,
-      "board": "versioduo:samd:dmx",
-      "hash": "889c918f4e3c325e18505da8536cc204e5454f50"
-    },
-    {
-      "file": "com.versioduo.dmx.firmware-57.bin",
-      "version": 57,
-      "board": "versioduo:samd:dmx",
-      "hash": "ffed3f43213122fb83aa1cd00b2abd14754e89c1"
-    },
-    {
-      "file": "com.versioduo.dmx.firmware-58.bin",
-      "version": 58,
-      "board": "versioduo:samd:dmx",
-      "hash": "7bf516f71be835cf755aacf3480594961f784907"
-    },
     {
       "file": "com.versioduo.dmx.firmware-59.bin",
       "version": 59,
