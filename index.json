@@ -17,6 +17,12 @@
       "version": 34,
       "board": "versioduo:samd:step",
       "hash": "bf870eb81807841c1cc91f0554efbb0904be0b8b"
+    },
+    {
+      "file": "com.versioduo.viola-1.firmware-35.bin",
+      "version": 35,
+      "board": "versioduo:samd:step",
+      "hash": "80945248e721aa02ce51630868ed11c408d1a26e"
     }
   ],
   "com.versioduo.wave": [
