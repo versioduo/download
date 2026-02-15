@@ -142,7 +142,7 @@
       "file": "com.versioduo.sax.firmware-17.bin",
       "version": 17,
       "board": "versioduo:samd:sax",
-      "hash": "bb761f318ebe91c17be2457bd6aab6e4f5fb53c9"
+      "hash": "d53c2693b98dfbbcbc3706309b3393a8652567a3"
     }
   ],
   "com.versioduo.radio": [
@@ -285,6 +285,14 @@
       "version": 7,
       "board": "versioduo:samd:strip",
       "hash": "3ad6fd106c1c0a9754b0da38364e3c66ec8e86de"
+    }
+  ],
+  "com.versioduo.sax-connect": [
+    {
+      "file": "com.versioduo.sax-connect.firmware-1.bin",
+      "version": 1,
+      "board": "versioduo:samd:connect",
+      "hash": "53b431b747ee516024fd7ca265438dd2b80d9dc8"
     }
   ],
   "com.versioduo.pedal-2": [

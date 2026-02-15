@@ -16,6 +16,7 @@ versioduo/pedal-2
 versioduo/pulse/firmware/pulse
 versioduo/radio/firmware/radio
 versioduo/sax/firmware/sax
+versioduo/sax/firmware/sax-connect
 versioduo/schlag-7/firmware/schlag-7
 versioduo/schlag-7/firmware/schlag-7-stepper
 versioduo/snare
