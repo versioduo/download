@@ -142,7 +142,7 @@
       "file": "com.versioduo.sax.firmware-17.bin",
       "version": 17,
       "board": "versioduo:samd:sax",
-      "hash": "567f7a58eee08edbc96ea04fe3462af70b548166"
+      "hash": "dab39291d198b91388418239b2059914c12e118e"
     }
   ],
   "com.versioduo.radio": [
