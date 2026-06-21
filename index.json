@@ -145,6 +145,14 @@
       "hash": "753b57b91ae6685af8ac12a2ddbefd4f5fbd4d3c"
     }
   ],
+  "com.versioduo.spot": [
+    {
+      "file": "com.versioduo.spot.firmware-1.bin",
+      "version": 1,
+      "board": "versioduo:samd:drum",
+      "hash": "114abed9685cba2686b26b27fc7c0a9117a9eb2f"
+    }
+  ],
   "de.vogelkuerstner.pi-14537": [
     {
       "file": "de.vogelkuerstner.pi-14537.firmware-53.bin",
