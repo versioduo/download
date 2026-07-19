@@ -283,6 +283,12 @@
       "version": 2,
       "board": "versioduo:samd:drum",
       "hash": "c1a1e73a191f358301bf3421dc665499edcebf42"
+    },
+    {
+      "file": "com.versioduo.spot.firmware-3.bin",
+      "version": 3,
+      "board": "versioduo:samd:spot",
+      "hash": "d45891b6b06b7c1bb0d38fc8c1109f4e17a7111a"
     }
   ],
   "de.vogelkuerstner.pi-14537": [
