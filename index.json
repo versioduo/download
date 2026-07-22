@@ -33,10 +33,10 @@
   ],
   "com.versioduo.tee": [
     {
-      "file": "com.versioduo.tee.firmware-3.bin",
-      "version": 3,
+      "file": "com.versioduo.tee.firmware-4.bin",
+      "version": 4,
       "board": "versioduo:samd:tee",
-      "hash": "91e782a6fe200fbed7756e06a888d4ea44a5389f"
+      "hash": "9de73dbc0ff432494a4b22a484de5a27344c9cba"
     }
   ],
   "com.versioduo.wave": [
@@ -273,22 +273,10 @@
   ],
   "com.versioduo.spot": [
     {
-      "file": "com.versioduo.spot.firmware-1.bin",
-      "version": 1,
-      "board": "versioduo:samd:drum",
-      "hash": "d13215a121a37670dfa754d6cd68b3a67c7da814"
-    },
-    {
-      "file": "com.versioduo.spot.firmware-2.bin",
-      "version": 2,
-      "board": "versioduo:samd:drum",
-      "hash": "c1a1e73a191f358301bf3421dc665499edcebf42"
-    },
-    {
-      "file": "com.versioduo.spot.firmware-3.bin",
-      "version": 3,
+      "file": "com.versioduo.spot.firmware-4.bin",
+      "version": 4,
       "board": "versioduo:samd:spot",
-      "hash": "d45891b6b06b7c1bb0d38fc8c1109f4e17a7111a"
+      "hash": "fddcc7661ad8c8e01273d9c38c125c86c4b1e127"
     }
   ],
   "de.vogelkuerstner.pi-14537": [
