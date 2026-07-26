@@ -3,6 +3,7 @@
 versioduo/pi-14537
 versioduo/axis/firmware/axis
 versioduo/beat/firmware/beat
+versioduo/connect/firmware/connect-hub
 versioduo/connect/firmware/connect-plug
 versioduo/connect/firmware/connect-socket
 versioduo/cube/firmware/cube
