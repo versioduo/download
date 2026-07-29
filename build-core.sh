@@ -32,9 +32,15 @@ grep -qE '//#define CFG_TUH_ENABLED 1' arduino-board-package/libraries/Adafruit_
 sed -i '' -E 's:#define CFG_TUH_MAX3421 1://#define CFG_TUH_MAX3421 1:' arduino-board-package/libraries/Adafruit_TinyUSB_Arduino/src/arduino/ports/samd/tusb_config_samd.h
 grep -qE '//#define CFG_TUH_MAX3421 1' arduino-board-package/libraries/Adafruit_TinyUSB_Arduino/src/arduino/ports/samd/tusb_config_samd.h
 
-# Get rif of double promotion
+# Get rid of double promotion
 sed -i '' -E 's/fraction \*= 0\.1;/fraction \*= 0\.1f;/' arduino-board-package/cores/arduino/Stream.cpp
 grep -qE 'fraction \*= 0\.1f;' arduino-board-package/cores/arduino/Stream.cpp
+
+# We need a large receive buffer, there is no flow control for large SysEx messages
+sed -i '' -E 's/RingBuffer rxBuffer;/RingBufferN<24 * 1024> rxBuffer;/' arduino-board-package/cores/arduino/Uart.h
+grep -qE 'RingBufferN<24 \* 1024> rxBuffer;' arduino-board-package/cores/arduino/Uart.h
+sed -i '' -E 's/RingBuffer txBuffer;/RingBufferN<1024> txBuffer;/' arduino-board-package/cores/arduino/Uart.h
+grep -qE 'RingBufferN<1024> txBuffer;' arduino-board-package/cores/arduino/Uart.h
 
 rm -rf samd/
 mkdir samd/
