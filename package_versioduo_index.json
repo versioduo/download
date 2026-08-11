@@ -9,15 +9,15 @@
         {
           "name": "Versio Duo",
           "architecture": "samd",
-          "version": "224",
+          "version": "232",
           "category": "Versio Duo",
           "help": {
             "online": "https://github.com/versioduo/download"
           },
-          "url": "https://versioduo.com/download/versioduo-samd-224.tar.bz2",
-          "archiveFileName": "versioduo-samd-224.tar.bz2",
-          "checksum": "SHA-256:697c0e748bb715ddee9d4ce4fc81e46a5998d883198432dcc2bb833d099d021e",
-          "size": 521928,
+          "url": "https://versioduo.com/download/versioduo-samd-232.tar.bz2",
+          "archiveFileName": "versioduo-samd-232.tar.bz2",
+          "checksum": "SHA-256:4c8e8cfb64bd8f50b88e09a8102e2250315c91b7d1b98c115e4214a7d2e71c20",
+          "size": 521947,
           "toolsDependencies": [
             {
               "packager": "versioduo",
@@ -32,7 +32,7 @@
             {
               "packager": "versioduo",
               "name": "arm-none-eabi-gcc",
-              "version": "14.3"
+              "version": "15.3"
             },
             {
               "packager": "versioduo",
@@ -113,28 +113,25 @@
         },
         {
           "name": "arm-none-eabi-gcc",
-          "version": "14.3",
+          "version": "15.3",
           "systems": [
             {
               "host": "x86_64-mingw32",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/14.3.rel1/binrel/arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
-              "archiveFileName": "arm-gnu-toolchain-14.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
-              "size": 291670457,
-              "checksum": "SHA-256:836ebe51fd71b6542dd7884c8fb2011192464b16c28e4b38fddc9350daba5ee8"
+              "url": "https://gitlab.arm.com/api/v4/projects/tooling%2Fgnu-toolchains-for-arm/packages/generic/gnu-toolchain/15.3.rel1/arm-gnu-toolchain-15.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
+              "archiveFileName": "arm-gnu-toolchain-15.3.rel1-mingw-w64-i686-arm-none-eabi.zip",
+              "checksum": "SHA-256:f1941b026f7a5383cf69ad09640dd4ef3e1479d612fd77c2c24cd820cf5c279d"
             },
             {
               "host": "arm64-apple-darwin",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/14.3.rel1/binrel/arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
-              "archiveFileName": "arm-gnu-toolchain-14.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
-              "size": 137816224,
-              "checksum": "SHA-256:30f4d08b219190a37cded6aa796f4549504902c53cfc3c7e044a8490b6eba1f7"
+              "url": "https://gitlab.arm.com/api/v4/projects/tooling%2Fgnu-toolchains-for-arm/packages/generic/gnu-toolchain/15.3.rel1/arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
+              "archiveFileName": "arm-gnu-toolchain-15.3.rel1-darwin-arm64-arm-none-eabi.tar.xz",
+              "checksum": "SHA-256:376808a59ca209c1413236f1c6a509e33da4b29857ab28642b9927cf3048af55"
             },
             {
               "host": "x86_64-linux-gnu",
-              "url": "https://developer.arm.com/-/media/Files/downloads/gnu/14.3.rel1/binrel/arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi.tar.xz",
-              "archiveFileName": "arm-gnu-toolchain-14.3.rel1-x86_64-arm-none-eabi.tar.xz",
-              "size": 149789432,
-              "checksum": "SHA-256:8f6903f8ceb084d9227b9ef991490413014d991874a1e34074443c2a72b14dbd"
+              "url": "https://gitlab.arm.com/api/v4/projects/tooling%2Fgnu-toolchains-for-arm/packages/generic/gnu-toolchain/15.3.rel1/arm-gnu-toolchain-15.3.rel1-x86_64-arm-none-eabi.tar.xz",
+              "archiveFileName": "arm-gnu-toolchain-15.3.rel1-x86_64-arm-none-eabi.tar.xz",
+              "checksum": "SHA-256:563bebb2b97d53382b956d6ee1fe61e2cae26699901417234a37df505ef9b5fa"
             }
           ]
         },
