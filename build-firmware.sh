@@ -1,6 +1,9 @@
 #!/bin/bash
 
-set -e
+set -o errexit
+set -o errtrace; trap 'echo "Error ${?} ${BASH_SOURCE[0]:-?}:${LINENO:-?}"' ERR
+set -o nounset
+set -o pipefail
 
 project=~/github
 
@@ -8,12 +11,11 @@ rm -rf build/
 mkdir build/
 
 function build {
-  local device=$1
+  local device=${1}
 
   name=$(basename $device)
-  meta=$(grep V2DEVICE_METADATA $project/$device/$name.ino)
-  # V2DEVICE_METADATA("com.versioduo.pad", 4, "versioduo:samd:pad")
-  match='.*V2DEVICE_METADATA\("(.*)",[[:space:]]([0-9]*),[[:space:]]"(.*)"\).*'
+  meta=$(grep V2DeviceInfo $project/$device/$name.ino)
+  match='.*V2DeviceInfo\("(.*)",[[:space:]]([0-9]*),[[:space:]]"(.*)"\).*'
   id=$(echo $meta | sed -E "s/$match/\1/")
   version=$(echo $meta | sed -E "s/$match/\2/")
   board=$(echo $meta | sed -E "s/$match/\3/")
@@ -30,8 +32,8 @@ function build {
   echo
 }
 
-if [[ -n "$1" && -d "$project/$1" ]]; then
-  build $1
+if [[ -n ${1:-} && -d $project/${1} ]]; then
+  build ${1}
 
 else
   while read device; do
@@ -42,7 +44,7 @@ else
   done < devices.txt
 fi
 
-if [[ "$1" == "--clean" ]]; then
+if [[ ${1:-} == "--clean" ]]; then
   rm -f *.firmware-*
 fi
 

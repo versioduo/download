@@ -1,6 +1,7 @@
 #!/bin/zsh
 
-set -e
+set -o errexit
+set -o nounset
 
 # Get the list of devices.
 typeset -A devices
@@ -24,7 +25,7 @@ for device in "${(@k)devices}"; do
   for i in $device.firmware-*.bin; do
     echo -ne $comma2 >> index.json
     comma2=",\n"
-    meta=$(strings "$i" | grep '"com.versioduo.firmware"')
+    meta=$(strings ${i} | grep '"com.versioduo.firmware"')
     id=$(echo $meta | sed -E 's/.*"id":"([^"]+).*/\1/')
     version=$(echo $meta | sed -E 's/.*"version":([^,]+).*/\1/')
     release=$(grep -s "$id" releases.txt | sed -E 's/.* //')
