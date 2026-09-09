@@ -322,7 +322,7 @@
       "file": "com.versioduo.connect-hub.firmware-5.bin",
       "version": 5,
       "board": "versioduo:samd:connect-hub",
-      "hash": "bbc8eb0abb9896b09bdbb4a41e3067d0baf55a11"
+      "hash": "58f564276bdd54e71fe75e2f8e3254895d385561"
     }
   ],
   "com.versioduo.snare": [
