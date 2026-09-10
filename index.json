@@ -515,6 +515,14 @@
       "hash": "26af34bc99b0d8c6d1267c684fb060fecd9a0460"
     }
   ],
+  "com.versioduo.beat-4": [
+    {
+      "file": "com.versioduo.beat-4.firmware-1.bin",
+      "version": 1,
+      "board": "versioduo:samd:beat-4",
+      "hash": "ecd68f389d08add8f67f2e90daab3f24cb59bc0a"
+    }
+  ],
   "de.vogelkuerstner.pi-14537": [
     {
       "file": "de.vogelkuerstner.pi-14537.firmware-53.bin",
