@@ -369,6 +369,12 @@
       "version": 27,
       "board": "versioduo:samd:sax",
       "hash": "acd6d7b85cae24cb303571da12f52d3b65684e7e"
+    },
+    {
+      "file": "com.versioduo.sax.firmware-28.bin",
+      "version": 28,
+      "board": "versioduo:samd:sax",
+      "hash": "2ecf5c1818a9bb7e6d2798f146337e3cdb47afea"
     }
   ],
   "com.versioduo.radio": [
@@ -513,6 +519,14 @@
       "version": 5,
       "board": "versioduo:samd:spot",
       "hash": "26af34bc99b0d8c6d1267c684fb060fecd9a0460"
+    }
+  ],
+  "com.versioduo.beat-4": [
+    {
+      "file": "com.versioduo.beat-4.firmware-1.bin",
+      "version": 1,
+      "board": "versioduo:samd:beat-4",
+      "hash": "1f93908f2cc1dacd53e8858bcf6cbc4fac83a909"
     }
   ],
   "de.vogelkuerstner.pi-14537": [
