@@ -65,6 +65,18 @@
       "version": 66,
       "board": "versioduo:samd:step",
       "hash": "97c8b61e167b4d1bd156a424806dbc1645f71752"
+    },
+    {
+      "file": "com.versioduo.viola-1.firmware-67.bin",
+      "version": 67,
+      "board": "versioduo:samd:step",
+      "hash": "790fd60ec535d08ed8174ad23837f8162906c024"
+    },
+    {
+      "file": "com.versioduo.viola-1.firmware-68.bin",
+      "version": 68,
+      "board": "versioduo:samd:step",
+      "hash": "f9851ec07dcad255df6f5c82d5b377b8b83d5174"
     }
   ],
   "com.versioduo.tee": [
