@@ -531,6 +531,18 @@
       "version": 5,
       "board": "versioduo:samd:spot",
       "hash": "26af34bc99b0d8c6d1267c684fb060fecd9a0460"
+    },
+    {
+      "file": "com.versioduo.spot.firmware-6.bin",
+      "version": 6,
+      "board": "versioduo:samd:spot",
+      "hash": "c95c2d4aee35ac4231b613aa686bb1b305e89b4e"
+    },
+    {
+      "file": "com.versioduo.spot.firmware-8.bin",
+      "version": 8,
+      "board": "versioduo:samd:spot",
+      "hash": "fc03ef90cbfa8dcc4430278af23b0a7417ff5b14"
     }
   ],
   "com.versioduo.beat-4": [
@@ -597,6 +609,12 @@
       "version": 75,
       "board": "versioduo:samd:control",
       "hash": "a0caf4f1b9ff07faf7ea858bc60b8572d9b3e9a2"
+    },
+    {
+      "file": "com.versioduo.glockenspiel-37.firmware-76.bin",
+      "version": 76,
+      "board": "versioduo:samd:control",
+      "hash": "e27df83749867a75d52d39282a658c207ca36340"
     }
   ],
   "com.versioduo.frame": [
